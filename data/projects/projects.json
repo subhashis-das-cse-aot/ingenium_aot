@@ -1,0 +1,1288 @@
+[
+  {
+    "id": "sih25104-segfault-society",
+    "title": "Language Agnostic Chatbot",
+    "excerpt": "Shiksha Saathi is a multilingual AI campus chatbot providing instant 24/7 document-grounded answers using RAG and multilingual LLM support.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "SegFault Society"
+    },
+    "problemStatement": {
+      "id": "SIH25104",
+      "title": "Language Agnostic Chatbot",
+      "theme": "Smart Education",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SegFault_Society [Autosaved].pdf",
+        "driveId": "d/1iKht1nPjGwsnovOox7TPpXito2rda0Um"
+      }
+    },
+    "techStack": [
+      "LangChain",
+      "RAG",
+      "FAISS",
+      "ChromaDB",
+      "Indic language models",
+      "Indic NLP",
+      "OCR",
+      "indic-trans"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25046-synapticon",
+    "title": "Smart Waste Segregation and Recycling System",
+    "excerpt": "Development of an AI/ML-Powered Robotic Arm with IoT Connectivity and NIR-Integrated Smart Bin System to Detect, Classify, and Segregate Municipal Solid Waste Safely, Efficiently, and Inclusively with high accuracy.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "SynaptiCon"
+    },
+    "problemStatement": {
+      "id": "25046",
+      "title": "Smart Waste Segregation and Recycling System",
+      "theme": "Clean & Green Technology",
+      "psCategory": "Hardware"
+    },
+    "files": {
+      "pdf": {
+        "name": "synapticon.pdf",
+        "driveId": "d/1dwNCdLYE_hjz-vMx5zgnYyuueQ-M9RGI"
+      }
+    },
+    "techStack": [
+      "Python",
+      "C++",
+      "TensorFlow",
+      "PyTorch",
+      "Arduino",
+      "Raspberry Pi",
+      "React Native",
+      "Flutter",
+      "Firebase",
+      "AWS",
+      "OpenCV",
+      "MQTT",
+      "HTTP",
+      "NIR Sensors"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25046-silicon-brains",
+    "title": "Smart Waste Segregation and Recycling System",
+    "excerpt": "An AI and sensor-fusion based system using image recognition and physical sensors to automatically identify and segregate waste into various categories with gamified rewards.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Silicon Brains"
+    },
+    "problemStatement": {
+      "id": "25046",
+      "title": "Smart Waste Segregation and Recycling System",
+      "theme": "Clean & Green Technology",
+      "psCategory": "Hardware"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH2025_SILICON BRAINS.pdf",
+        "driveId": "d/1FbhO2_Uylx__0kTuZF1BeJqKIUjToz1x"
+      }
+    },
+    "techStack": [
+      "ESP32-CAM",
+      "Arduino UNO R3",
+      "Blynk",
+      "MIT App Inventor",
+      "Teachable Machine",
+      "SG90 Micro Servo",
+      "Ultrasonic Sensor",
+      "Moisture Sensors",
+      "Gas sensor (MQ-135)",
+      "Load Cell + HX711"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25035-qbit",
+    "title": "Sentiment analysis of comments received through E-consultation module",
+    "excerpt": "Automates large-scale comment analysis for the Ministry of Corporate Affairs using Legal-BERT and Aspect-Based Sentiment Analysis to provide precise insights on draft legislations.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Qbit"
+    },
+    "problemStatement": {
+      "id": "SIH25035",
+      "title": "Sentiment analysis of comments received through E-consultation module",
+      "theme": "Miscellaneous",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH2025TeamQBIT20250930162500.pdf",
+        "driveId": "d/1XeRTkFWSeTugwJ2jk5cHbYlIBPnuIBK3"
+      }
+    },
+    "techStack": [
+      "Legal-BERT",
+      "PyABSA",
+      "ATEPC",
+      "TF-IDF",
+      "BART-style model",
+      "Neural Networks"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25049-cotton-clouds",
+    "title": "AI Driven Public Health Chatbot for Disease Awareness",
+    "excerpt": "A multilingual AI healthcare chatbot specialized for rural communities featuring WhatsApp outreach, verified outbreak alerts, and myth-busting capabilities in local dialects.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Cotton Clouds"
+    },
+    "problemStatement": {
+      "id": "25049",
+      "title": "AI Driven Public Health Chatbot for Disease Awareness",
+      "theme": "MedTech/BioTech/HealthTech",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH 2025 Cotton clouds.pdf",
+        "driveId": "d/1PtK4ga7inB_ahG8_AaDZdJQ0jbEAC9XW"
+      }
+    },
+    "techStack": [
+      "LLM",
+      "Retrieval Augmented Generation (RAG)",
+      "WhatsApp API",
+      "Telegram API",
+      "V0",
+      "Next.js"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25018-team-meteor",
+    "title": "Telemedicine Access for Rural Healthcare in Nabha",
+    "excerpt": "A multilingual app for video/audio consults, AI symptom checks, and offline health records sync to the cloud. It provides remote access to medical advice and urban specialists via a mobile app and village kiosks, bridging the urban-rural healthcare gap.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Team Meteor"
+    },
+    "problemStatement": {
+      "id": "SIH25018",
+      "title": "Telemedicine Access for Rural Healthcare in Nabha",
+      "theme": "MedTech / BioTech / Health Tech",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "team meteor.pdf",
+        "driveId": "d/1Ds2N08oJBzX6HERBB_TRIjnTg9u3AFxG"
+      }
+    },
+    "techStack": ["Firebase", "Tailwind CSS", "Node.js", "React", "Vercel"],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25091-bigbytes",
+    "title": "AI-Based timetable generation system aligned with NEP 2020",
+    "excerpt": "An automated timetable generation system named 'Scheduler' that uses AI/ML optimization algorithms to handle complex constraints for multidisciplinary education structures.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "BigBytes"
+    },
+    "problemStatement": {
+      "id": "25091",
+      "title": "AI-Based timetable generation system aligned with NEP 2020 for multidisciplinary education structure",
+      "theme": "Smart Automation",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "BigBites.pdf",
+        "driveId": "d/1f9_f8PwJHjoOhgi9VbsVDT8h8DQnwbwf"
+      }
+    },
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Tailwind CSS",
+      "Three.js",
+      "Python",
+      "FastAPI",
+      "SQLAlchemy",
+      "Pydantic",
+      "Google OR-Tools",
+      "OpenAI GPT API"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25094-innovators",
+    "title": "One-Stop Personalized Career & Education Advisor",
+    "excerpt": "A web and mobile platform named 'Udaan' offering guidance after Class 10 & 12 through aptitude tests, career mapping, and direct connection with seniors for real-world insights.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Innovators"
+    },
+    "problemStatement": {
+      "id": "25094",
+      "title": "one-Stop Personalized Career & Education Advisor",
+      "theme": "Smart Education",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH2025_INNOVATORS.pdf",
+        "driveId": "d/1PhVO8HTIOHWt_IJP9uxfhx8Ruc1b0KQu"
+      }
+    },
+    "techStack": [
+      "Next.js",
+      "Tailwind CSS",
+      "Material UI",
+      "MongoDB Atlas",
+      "MySQL",
+      "Scikit-Learn",
+      "TensorFlow Lite",
+      "JWT",
+      "Bcrypt"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25017-setu",
+    "title": "Digital platform for centralized Alumni Data Management and Engagement",
+    "excerpt": "A secure web application named 'SETU#' for alumni data management, career tracking, and long-term engagement featuring AI-based verification and global alumni mapping.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "SETU#"
+    },
+    "problemStatement": {
+      "id": "25017",
+      "title": "Digital platform for centralized Alumni Data Management and Engagement",
+      "theme": "Smart Education",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SETU#.pdf",
+        "driveId": "d/1Csxonp552RUJNYFx3j0bD8lXeYeYt0qA"
+      }
+    },
+    "techStack": [
+      "React.js",
+      "React Native",
+      "Redux",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL",
+      "Socket.IO",
+      "Python FastAPI",
+      "OCR",
+      "NLP",
+      "Auth0",
+      "Cloudinary",
+      "Stripe",
+      "Google Maps API"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25016-origins",
+    "title": "Automated Student Attendance Monitoring and Analytics System for Colleges",
+    "excerpt": "A hybrid solution combining a portable IoT biometric device for teachers and a secure web dashboard for administration, effectively eliminating proxy attendance.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "ORIGINS"
+    },
+    "problemStatement": {
+      "id": "SIH25016",
+      "title": "Automated Student Attendance Monitoring and Analytics System for Colleges",
+      "theme": "Smart Education",
+      "psCategory": "Software/Hardware"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH2025-IDEA-Presentation-team_ORIGINS (5).pdf",
+        "driveId": "d/1K0D_6-PYO8nOeWnntJ4G4l8LELJ7effF"
+      }
+    },
+    "techStack": [
+      "ESP32",
+      "R307 Optical Fingerprint Sensor",
+      "1.8\" TFT Screen",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL",
+      "JWT"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25006-hackathors",
+    "title": "Digital Farm Management Portal for Implementing Biosecurity",
+    "excerpt": "A Digital Farm Management Portal enabling pig and poultry farmers to perform risk assessments, receive real-time disease alerts, and access training in local languages.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Hackathors"
+    },
+    "problemStatement": {
+      "id": "SIH25006",
+      "title": "Development of a Digital Farm Management Portal for lmplementing Biosecurity ileasures in Pig and Poultry Farms",
+      "theme": "Agriculture, FoodTech & Rural Development",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH25006_Hackathors.pdf",
+        "driveId": "d/1DjGKQY3ALahnxfmDoyW9lyWuDi7hFOXU"
+      }
+    },
+    "techStack": [
+      "PWA",
+      "AWS (EC2 / RDS / S3)",
+      "Auth0",
+      "PostgreSQL",
+      "MySQL",
+      "Grafana",
+      "Prometheus"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25071-hackathors",
+    "title": "AI-Based Rockfall Prediction and Alert System for Open-Pit Mines",
+    "excerpt": "An AI-based predictive system that combines terrain, environmental, and sensor data (DEM, drone imagery, strain, rainfall) using machine learning models (CNN + LSTM + ensemble) to forecast rockfall risks with high accuracy (95-99%) and generate real-time alerts.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Hackathors"
+    },
+    "problemStatement": {
+      "id": "SIH25071",
+      "title": "AI-Based Rockfall Prediction and Alert System for Open-Pit Mines",
+      "theme": "Disaster Management",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH25071_Hackathors.pdf",
+        "driveId": "d/1V9uah6q79FnqWO-PeLHdYsHUPZd27S42"
+      }
+    },
+    "techStack": [
+      "NEXT.js",
+      "Tailwind CSS",
+      "FastAPI",
+      "mongoDB",
+      "redis",
+      "Cloudinary",
+      "GitHub",
+      "aws",
+      "scikit learn",
+      "pandas",
+      "NumPy",
+      "XGBoost",
+      "Vercel",
+      "CNN",
+      "LSTM",
+      "Ensemble Models"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25016-mindflux",
+    "title": "Automated Student Attendance Monitoring and Analytics System",
+    "excerpt": "SmartAttend provides automated attendance via facial recognition using live CCTV or group photos, stored securely in a cloud dashboard with smart analytics.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Mindflux"
+    },
+    "problemStatement": {
+      "id": "SIH25016",
+      "title": "Automated Student Attendance Monitoring and Analytics System for Colleges",
+      "theme": "Smart Education",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "Mindflux-SIH25016.pdf",
+        "driveId": "d/10l5oZHpLvRMHWteXPCKl6jzxQH6PIvDq"
+      }
+    },
+    "techStack": [
+      "YOLOv8 Algorithm",
+      "OpenCV",
+      "dlib",
+      "FaceNet",
+      "DeepFace",
+      "Figma",
+      "draw.io"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25016-codo-sapiens",
+    "title": "Automated Student Attendance Monitoring and Analytics System",
+    "excerpt": "A Firebase-powered Smart Attendance System where faculty sets geofence boundaries and students check in via GPS plus Fingerprint/QR verification.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Codo-Sapiens"
+    },
+    "problemStatement": {
+      "id": "25016",
+      "title": "Automated Student Attendance Monitoring And Analytics System For Colleges",
+      "theme": "Smart Education",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH 2025 PDF Final -- Codo-Sapiens.pdf",
+        "driveId": "d/1OUgpURJd7Gm5ArxRkR0gRHEsut1fDJEs"
+      }
+    },
+    "techStack": [
+      "Java",
+      "Firebase Realtime Database",
+      "Android SDK",
+      "Biometric Prompt API",
+      "ZXing / Google ML Kit",
+      "Fused Location API",
+      "Android Studio"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25012-infinity-loop",
+    "title": "Automated Attendance System for Rural Schools",
+    "excerpt": "An Automated Attendance System using dual verification (RFID Scan + Facial Recognition) with minimal infrastructure, designed as an offline-first solution for rural schools.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Infinity_loop"
+    },
+    "problemStatement": {
+      "id": "25012",
+      "title": "Automated Attendance System for Rural Schools",
+      "theme": "Smart Education",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH25012-Infinity_loop-1.pdf",
+        "driveId": "d/1DERA8xA_wU6_eWdLV1m5SMVE4opUEzkv"
+      }
+    },
+    "techStack": [
+      "SQLite",
+      "MySQL",
+      "PostgreSQL",
+      "RFID",
+      "Face Recognition",
+      "TFLite",
+      "Arduino UNO"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25051-tactinomikon",
+    "title": "RENEWABLE ENERGY MONITORING SYSTEM FOR MICROGRIDS",
+    "excerpt": "A project focused on powering rural Odisha through decentralized renewable energy microgrids with efficiency enhancements and real-time monitoring.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "TACTINOMIKON"
+    },
+    "problemStatement": {
+      "id": "SIH25051",
+      "title": "RENEWABLE ENERGY MONITORING SYSTEM FOR MICROGRIDS",
+      "theme": "Renewable / Sustainable Energy",
+      "psCategory": "Hardware"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH2505157871TACTINOMIKON20250925212636.pdf",
+        "driveId": "d/1pQa3CGhsvai2JCP01njp3UaNwMl10PSb"
+      }
+    },
+    "techStack": [
+      "AI for microgrids",
+      "Lithium-Ion Battery Monitoring",
+      "Remora optimization algorithm"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25070-the-eleventh-hour",
+    "title": "Secure Data Wiping for Trustworthy IT Asset Recycling",
+    "excerpt": "SecureWipe is a data sanitization solution integrating NIST SP 800-88 standard algorithms to ensure irreversible destruction across all storage zones including SSD firmware-level sectors.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "The Eleventh Hour"
+    },
+    "problemStatement": {
+      "id": "25070",
+      "title": "Secure Data Wiping for Trustworthy IT Asset Recycling",
+      "theme": "Miscellaneous",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH2025 The Eleventh hour.pdf",
+        "driveId": "d/1-1seFs94bP0Wlltl7z9o5_g0h6unV0ra"
+      }
+    },
+    "techStack": [
+      "Python",
+      "C++",
+      "C#",
+      "Blockchain-based registry",
+      "ISO/USB live mode"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih-zero2infinity",
+    "title": "Data Pay: Family Data Sharing Platform",
+    "excerpt": "A platform preventing mobile data wastage by allowing users to pool unused daily data and transfer it to family members across different network providers using virtual data tokens.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Zero2Infinity"
+    },
+    "problemStatement": {
+      "id": "N/A",
+      "title": "Wastage of mobile data",
+      "theme": "Miscellaneous",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH PPT _ Zero2Infinity.pdf",
+        "driveId": "d/1RTVKR0yUnAMP5XJZBP9lcm4p-6jn5X2v"
+      }
+    },
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MongoDB",
+      "PostgreSQL",
+      "Tailwind CSS",
+      "React.js",
+      "Redis",
+      "Python",
+      "Node JS",
+      "AWS",
+      "Google Cloud"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25061-pixel-pilgrims",
+    "title": "Monastery360: A Digital Heritage Platform",
+    "excerpt": "A comprehensive digital platform to digitize and showcase Sikkim's 200+ monasteries for tourism and cultural preservation using VR/AR and weather-smart itineraries.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Pixel Pilgrims"
+    },
+    "problemStatement": {
+      "id": "SIH25061",
+      "title": "Digitize and Showcase Monasteries of Sikkim for Tourism and Cultural Preservation",
+      "theme": "Travel & Tourism",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "Pixel Pilgrims-1.pdf",
+        "driveId": "d/1VdFC_ifwgvcKuTLF2rUY5ZW5OhKI-g2p"
+      }
+    },
+    "techStack": [
+      "VR/AR",
+      "AI",
+      "Vercel",
+      "UNESCO Digital Heritage Guidelines"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25073-yuktix",
+    "title": "Lakshya: AI Powered Mobile Platform for Sports Talent",
+    "excerpt": "A personalized sports honing platform that uses AI/ML video analysis for talent assessment, growth tracking, and matching athletes with proximity-based coaches.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "YuktiX"
+    },
+    "problemStatement": {
+      "id": "SIH25073",
+      "title": "Al Powered Mobile Platform for Democratizing Sports Talent Assessment",
+      "theme": "Fitness & Sports",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH2025_yuktiX.pdf",
+        "driveId": "d/1fsFTmf4B6WFzhsekt_E5g0cMyICsibOK"
+      }
+    },
+    "techStack": [
+      "NodeJS",
+      "React",
+      "ExpressJS",
+      "mongoDB",
+      "Springboot",
+      "Android Java",
+      "PyTorch",
+      "TensorFlow Lite",
+      "YOLO v8",
+      "OpenCV",
+      "AWS",
+      "Firebase",
+      "Gemini"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25047-s-factor",
+    "title": "Disaster Response Drone for Remote Areas",
+    "excerpt": "A hardware-based disaster response drone featuring dual-camera thermal imaging for victim detection, an AI autopilot mode for signal loss, and an automatic clutch delivery mechanism.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "S-Factor"
+    },
+    "problemStatement": {
+      "id": "SIH 25047",
+      "title": "Disaster Response Drone for Remote Areas",
+      "theme": "Robotics and drones",
+      "psCategory": "Hardware"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH2025_S-Factor.pdf",
+        "driveId": "d/1iVzXYfthoWnzO2LWzMCz36VBeGCvfTt3"
+      }
+    },
+    "techStack": [
+      "Pixhawk flight controller",
+      "Raspberry Pi 4/5",
+      "Python",
+      "C++",
+      "YOLOv5/8/11",
+      "Thermal–RGB fusion",
+      "GPS/compass"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25062-hardworking-hardwares",
+    "title": "Smart Irrigation & Cultivation System for Hilly Regions",
+    "excerpt": "An IoT-based smart irrigation solution for Sikkim that uses sensors and ESP32 to water crops only when soil is dry, boosting yield while saving water.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Hardworking Hardwares"
+    },
+    "problemStatement": {
+      "id": "25062",
+      "title": "Implementation of Smart Agriculture for Efficient Cultivation in Hilly Region",
+      "theme": "Agriculture, Food tech,& Rural Development",
+      "psCategory": "Hardware"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH_25(Hardworking Hardware.pdf",
+        "driveId": "d/1g4OICZVeEA4uYBtHCuF8dS3QZiKUhwhg"
+      }
+    },
+    "techStack": [
+      "ESP32",
+      "Blynk",
+      "ThingSpeak",
+      "Python",
+      "C++",
+      "React Native",
+      "IoT Sensors"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25062-innovengers",
+    "title": "AgriNova: Smart Agriculture for Hilly Regions",
+    "excerpt": "AgriNova features a smart farm dashboard, Kalpataru AI chatbot for farming guidance, and an AI leaf analyzer for disease detection, tailored for slope irrigation and water harvesting.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "InnoVengers"
+    },
+    "problemStatement": {
+      "id": "25062",
+      "title": "Implementation of Smart Agriculture for Efficient Cultivation in Hilly Regions",
+      "theme": "Agriculture, FoodTech & Rural Development",
+      "psCategory": "Hardware"
+    },
+    "files": {
+      "pdf": {
+        "name": "InnoVengers-1.pdf",
+        "driveId": "d/1PRiCpiZibmrA55Tn9-tXf7f2oFzUk_zk"
+      }
+    },
+    "techStack": [
+      "Firebase",
+      "ESP32",
+      "LoRa",
+      "AI (Chatbot & Leaf Analyzer)",
+      "Render"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25015-eco-growers",
+    "title": "Intelligent Pesticide Sprinkling System Determined by the Infection Level of a Plant",
+    "excerpt": "An AI & IoT-based smart sprayer that detects plant infection level (Healthy/Low/Medium/High) using a lightweight CNN model, automatically spraying only where and when needed to reduce waste and lower costs.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Eco Growers"
+    },
+    "problemStatement": {
+      "id": "SIH25015",
+      "title": "Intelligent Pesticide Sprinkling System Determined by the Infection Level of a Plant",
+      "theme": "Agriculture, Food Tech & Rural Development",
+      "psCategory": "Hardware"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH25015_EcoGrowers.pdf",
+        "driveId": "d/1YHDIpf8oFgBsMuJa9Kg1GDKxQPvfHC1N"
+      }
+    },
+    "techStack": [
+      "Lightweight CNN (MobileNetV2/V3)",
+      "TensorFlow",
+      "TensorFlow Lite",
+      "Raspberry Pi 4",
+      "ESP32-CAM",
+      "LoRa",
+      "MQTT",
+      "Flutter",
+      "React/Next.js",
+      "Firebase",
+      "Google Cloud Vision API"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25051-megawatt-minds",
+    "title": "Renewable Energy Monitoring System for Microgrids",
+    "excerpt": "A comprehensive monitoring system for solar, battery, and load power with IoT integration, smart load control, and AI-powered prediction of next-day solar generation.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "MegaWatt Minds"
+    },
+    "problemStatement": {
+      "id": "25051",
+      "title": "Renewable Energy Monitoring System for Microgrids.",
+      "theme": "Renewable / Sustainable Energy",
+      "psCategory": "Hardware"
+    },
+    "files": {
+      "pdf": {
+        "name": "MegaWATT_MINDS Finals sih.pdf",
+        "driveId": "d/1LElH4l8dnI768NbgKdJXCknx8J63Z5ay"
+      }
+    },
+    "techStack": [
+      "ESP32",
+      "Blynk",
+      "Machine Learning",
+      "Weather API",
+      "OLED display"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25036-nanosentinels",
+    "title": "Development of Sensor for Detection Of Microplastics",
+    "excerpt": "A low-cost, portable optical sensor for on-site microplastic detection using a multi-wavelength LASER system and Arduino-based scanning across X & Y axes.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "NanoSentinels"
+    },
+    "problemStatement": {
+      "id": "25036",
+      "title": "Development of Sensor for Detection Of Microplastics",
+      "theme": "Miscellaneous",
+      "psCategory": "Hardware"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH_2025_NanoSentinets.pdf",
+        "driveId": "d/13yacE2vNGt78qzSUYAYoO3LQvwZxgz86"
+      }
+    },
+    "techStack": [
+      "Arduino Due",
+      "Multi-wavelength LASER (360–960 nm)",
+      "Photodiode detector",
+      "Stepper motors",
+      "Machine Learning/Fuzzy logic integration"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25030-neuro-ninjas",
+    "title": "AI-Based Crop Recommendation for Farmers",
+    "excerpt": "A farmer-centric app that suggests profitable crops based on soil data, real-time satellite weather forecasts, and market demand, featuring image-based disease detection.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Neuro Ninjas"
+    },
+    "problemStatement": {
+      "id": "25030",
+      "title": "AI-Based Crop Recommendation for Farmers",
+      "theme": "Agriculture, FoodTech & Rural Development",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "Neuro_Ninjas_SIH@2025.pdf",
+        "driveId": "d/1sQzae0zie351mGBhwaq1_tIv1GEE7jSU"
+      }
+    },
+    "techStack": [
+      "React Native",
+      "NativeWind",
+      "Flutter",
+      "Node.js",
+      "Express.js",
+      "Flask",
+      "SpringBoot",
+      "PostgreSQL",
+      "MongoDB",
+      "SQLite",
+      "TensorFlow",
+      "PyTorch",
+      "CatBoost",
+      "CNN",
+      "OpenCV",
+      "Prophet",
+      "AWS",
+      "Docker",
+      "Firebase",
+      "GCP"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25033-optima",
+    "title": "AI-Based Smart Allocation Engine for PM Internship Scheme",
+    "excerpt": "An AI-powered allocation engine that matches applicants with internships based on skills, location, and sector interests using machine learning algorithms to ensure fair and accurate matches.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Optima"
+    },
+    "problemStatement": {
+      "id": "25033",
+      "title": "AI-Based Smart Allocation Engine for PM Internship Scheme",
+      "theme": "Smart Automation",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH2025_Optima#.pdf",
+        "driveId": "d/1ZsVT8dZGnRzMOvz94XFpM10wdUicrdR8"
+      }
+    },
+    "techStack": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Scikit-learn",
+      "Gale-Shapley Algorithm",
+      "XGBoost",
+      "Decision Trees",
+      "PCA",
+      "HTML",
+      "CSS",
+      "JS",
+      "React.js",
+      "Tailwind CSS",
+      "Flask",
+      "PostgreSQL",
+      "AWS",
+      "Docker"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25002-system-404",
+    "title": "Smart Tourist Safety Monitoring & Incident Response System",
+    "excerpt": "TourGuard360 is a safety ecosystem for North Eastern Region tourism combining AI risk detection, geo-fencing, and mesh networking for offline emergency response.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "System 404"
+    },
+    "problemStatement": {
+      "id": "25002",
+      "title": "Smart Tourist Safety Monitoring & Incident Response System using AI, Geo-Fencing, and Digital ID",
+      "theme": "Travel & Tourism",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH25002_SYSTEM404.pdf",
+        "driveId": "d/1FxHuBJLo4p4LrWApoR5S1P-1FXFS1luM"
+      }
+    },
+    "techStack": [
+      "React Native",
+      "Redux Toolkit",
+      "SQLite",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL",
+      "PostGIS",
+      "Redis",
+      "Apache Kafka",
+      "FastAPI",
+      "AWS",
+      "TensorFlow.js",
+      "PyTorch Lightning",
+      "Hyperledger Indy",
+      "IPFS",
+      "Zero-Knowledge Proofs"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25050-sixth-sense",
+    "title": "Smart Traffic Management System for Urban Congestion",
+    "excerpt": "An AI-based adaptive traffic signal system that uses real-time sensor and camera data to adjust light durations and provide priority clearance for emergency vehicles.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Sixth Sense"
+    },
+    "problemStatement": {
+      "id": "SIH25050",
+      "title": "Smart Traffic Management System for Urban Congestion",
+      "theme": "Transportation & Logistics",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH2025-IDEA-PRESENTATION-SIXTH SENSE.pdf",
+        "driveId": "d/1lUZSVzlpxMMswnzX5yrOk6mRzPLhe3NJ"
+      }
+    },
+    "techStack": [
+      "React Js",
+      "React Native",
+      "Redux",
+      "Next Js",
+      "Tailwind CSS",
+      "Node Js",
+      "Express Js",
+      "MongoDB",
+      "Supabase",
+      "Firebase",
+      "Socket IO",
+      "Solidity",
+      "ChatGPT 5",
+      "Gemini 3.5 Turbo",
+      "TensorFlow",
+      "PyTorch",
+      "AWS",
+      "Docker",
+      "GCP"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25066-syntax-terror",
+    "title": "AI-driven ChatBOT for INGRES as a virtual assistant",
+    "excerpt": "A voice-first AI assistant for officers on the ground that converts natural language hydrology questions into verified database queries and provides spoken responses.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Syntax Terror"
+    },
+    "problemStatement": {
+      "id": "SIH25066",
+      "title": "Development of an Al-driven ChatBOT for INGRES as a virtual assistant",
+      "theme": "Smart Automation",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH2025-IDEA-Presentation.pdf",
+        "driveId": "d/1z1wmgjNgoODJzMdXZtFZxSqQujtknGQJ"
+      }
+    },
+    "techStack": [
+      "Whisper.cpp",
+      "NLP intent parsing",
+      "IndicNLP",
+      "SQL",
+      "On-premise deployment"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25042-qbit",
+    "title": "Identifying Taxonomy and Assessing Biodiversity from eDNA Datasets",
+    "excerpt": "DeepSeaScout uses alignment-free deep learning and sequence-to-image transformation to identify known and novel marine taxa from raw eDNA sequences.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Qbit"
+    },
+    "problemStatement": {
+      "id": "SIH25042",
+      "title": "Identifying Taxonomy and Assessing Biodiversity from eDNA Datasets",
+      "theme": "Miscellaneous",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH2025 Qbit.pdf",
+        "driveId": "d/1cJ4UMfDosF9rBb1JF27pHTsR3OS60DhU"
+      }
+    },
+    "techStack": [
+      "FCGR-Vision Integration",
+      "MobileViT Encoder",
+      "Self-Supervised Learning",
+      "HDBSCAN",
+      "Python"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25008-bitwise",
+    "title": "Disaster Preparedness and Response Education System",
+    "excerpt": "A gamified learning platform for schools and colleges featuring virtual drills, interactive simulations, and region-specific alerts to enhance disaster awareness.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "BITWISE"
+    },
+    "problemStatement": {
+      "id": "SIH25008",
+      "title": "Disaster Preparedness and Response Education System for Schools and Colleges",
+      "theme": "Disaster Management",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "BitWise.pdf",
+        "driveId": "d/1qroP3dbflhgzidvKw2-iapiuuLkpywxM"
+      }
+    },
+    "techStack": [
+      "Next JS",
+      "Express JS",
+      "PostgreSQL",
+      "React Native",
+      "Unity 3D Engine",
+      "Appwrite",
+      "AWS"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25079-phoenix-init",
+    "title": "AI-enabled Broken Conductor Detection System for LT Lines",
+    "excerpt": "Software that monitors voltage and current patterns in real-time to detect broken conductors on LT lines, triggering immediate power disconnection to prevent hazards.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "phoenix.init"
+    },
+    "problemStatement": {
+      "id": "SIH25079",
+      "title": "SOFTWARE OTHER THAN A CIRCUIT BREAKER THAT CAN BE USED TO DETECT AND TURN OFF LT LINES WHEN THE LINE BREAKS",
+      "theme": "Disaster Management",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "SIH 2025 PPT_ Pheonix.init.pdf",
+        "driveId": "d/1Fex26BFeKyHW0xSY6Ls8wgj8C0tDLeXW"
+      }
+    },
+    "techStack": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "MATLAB/Simulink",
+      "PANDAPOWER",
+      "OpenDSS",
+      "PSCAD",
+      "Smart meters"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25090-blue-revive",
+    "title": "Grey water management and reuse wet land management",
+    "excerpt": "A multi-stage greywater treatment prototype using sand filters, activated carbon, and intelligent sensors to manage water reuse for sustainable irrigation.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Blue Revive"
+    },
+    "problemStatement": {
+      "id": "25090",
+      "title": "Grey water management and reuse wet land management water conservation",
+      "theme": "Clean & Green Technology",
+      "psCategory": "Hardware"
+    },
+    "files": {
+      "pdf": {
+        "name": "bluerevive_SIH_finalppt (4).pdf",
+        "driveId": "d/1zy4POsdebbvBwH8lBb7KrAQyxTpYsCF2"
+      }
+    },
+    "techStack": [
+      "ESP32",
+      "Arduino IDE",
+      "pH sensor",
+      "Turbidity sensor",
+      "TDS sensor",
+      "Temperature sensor",
+      "Mesh filters",
+      "Grease traps"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25036-aquasense",
+    "title": "Development of Sensor for Detection Of Microplastics",
+    "excerpt": "A low-cost, portable system using optical scattering and ML-powered analysis for real-time field detection of microplastics in water samples.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "Aquasense"
+    },
+    "problemStatement": {
+      "id": "25036",
+      "title": "Development of Sensor for Detection Of Microplastics",
+      "theme": "Miscellaneous",
+      "psCategory": "Hardware"
+    },
+    "files": {
+      "pdf": {
+        "name": "SMART INDIA HACKATHON 2025.pdf",
+        "driveId": "d/1BvEhsVgDOWeEfZOs6kTZiMaoox1Zvbxh"
+      }
+    },
+    "techStack": [
+      "Python",
+      "ML Models",
+      "TSL2591 optical sensor",
+      "UV LED",
+      "Water pump"
+    ],
+    "createdAt": "January 18, 2026"
+  },
+  {
+    "id": "sih25016-techgeeks",
+    "title": "Automated Student Attendance Monitoring & Analytics System",
+    "excerpt": "A dual-QR check and app-lock system for offline classes, combined with random pop-up alerts for online classes, to ensure authentic student presence and engagement.",
+    "category": "SIH Project",
+    "department": "projects",
+    "year": "2025",
+    "team": {
+      "name": "TechGeeks"
+    },
+    "problemStatement": {
+      "id": "25016",
+      "title": "Automated Student Attendance Monitoring and Analytics System for Colleges",
+      "theme": "Smart Education",
+      "psCategory": "Software"
+    },
+    "files": {
+      "pdf": {
+        "name": "Final_Sih_ppt_Techgeeks.pdf",
+        "driveId": "d/1ZcObvNTpUDxVxHsOGuhUgSDevk0I4riH"
+      }
+    },
+    "techStack": [
+      "QR Code Technology",
+      "Google ZXing",
+      "App Lock mode",
+      "Firebase"
+    ],
+    "createdAt": "January 18, 2026"
+  }
+]
